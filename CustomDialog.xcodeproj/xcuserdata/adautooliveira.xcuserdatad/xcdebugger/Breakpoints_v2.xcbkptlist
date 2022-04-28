@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BBB136D1-459D-49C1-A611-DE6757B15510"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "658BDFD1-CC84-4658-ABB5-52F28B571204"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomDialog/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "dismissSuccessAndGoTo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFDD26AE-809D-4F04-A1BC-1D2BC5B5D30C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomDialog/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "printMessage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DFDD26AE-809D-4F04-A1BC-1D2BC5B5D30C - 2c1ce3fe32434b25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomDialog.ViewController.printMessage() -&gt; ()"
+                  moduleName = "CustomDialog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adautooliveira/Documents/projects/SwiftComponents/CustomDialog/CustomDialog/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "83">
+               </Location>
+               <Location
+                  uuid = "DFDD26AE-809D-4F04-A1BC-1D2BC5B5D30C - 1749e43c4d3d60ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 () -&gt; () in implicit closure #1 (CustomDialog.ViewController) -&gt; () -&gt; () in CustomDialog.ViewController.printMessage() -&gt; ()"
+                  moduleName = "CustomDialog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adautooliveira/Documents/projects/SwiftComponents/CustomDialog/CustomDialog/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
